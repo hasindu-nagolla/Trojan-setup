@@ -33,7 +33,7 @@ nano config.json
   "local_addr": "127.0.0.1",
   "local_port": 1080,
   "remote_addr": "addYourDomain",
-  "remote_port": addYourPortInPanel,
+  "remote_port": addYourPort,
   "password": [
     "addYourPassword"
   ],
