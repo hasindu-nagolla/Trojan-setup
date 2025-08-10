@@ -188,4 +188,3 @@ cd ~/trojan-go-setup
 ```
 
 Privoxy and your system-wide proxy/apt configs persist and do NOT need to be reset.
-
